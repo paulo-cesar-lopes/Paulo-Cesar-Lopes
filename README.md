@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 #### About Me 
     - 🧠 Studying and improving myself every day on my job and as a person.
-    - 🌳 i work very well with a work enviroment, good with people and working in group.
+    - 🌳 i work very well in a enviroment, good relationship with people.
     - 💼 Looking for a internship to enter the job market.
     
 ## 🛠 &nbsp;Tech Stack
