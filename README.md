@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello there, I'm Paulo Cesar.
+### Welcome to my profile in github :wave:
+
 
 <!--
 **paulo-cesar-lopes/Paulo-Cesar-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About Me 
+    - 🧠 Studying and improving myself every day on my job and as a person.
+    - 🌳 i work very well with a work enviroment, good with people and working in group.
+    - 💼 Looking for a internship to enter the job market.
+    
+## 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;    
+ 
